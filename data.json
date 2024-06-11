@@ -1,0 +1,831 @@
+[
+    {
+      "tipo": "Hortalizas de hoja",
+      "nombre": "Espinaca Matador",
+      "nombre_cientifico": "Spinacia oleracea",
+      "foto": "img/cards/default.jpeg",
+      "año": "2022",
+      "disponibilidad": "Disponible",
+      "origen": "Gartenland"
+    },
+    {
+      "tipo": "Hortalizas de fruto",
+      "nombre": "Rabanitos Rojo y blanco",
+      "nombre_cientifico": "Raphanys sativus var.sativus",
+      "foto": "img/cards/default.jpeg",
+      "año": "2022",
+      "disponibilidad": "Disponible",
+      "origen": "Gartenland"
+    },
+    {
+      "tipo": "Hortalizas de fruto",
+      "nombre": "Sandía",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2021",
+      "disponibilidad": "Disponible",
+      "origen": "Huerto"
+    },
+    {
+      "tipo": "Hortalizas de hoja",
+      "nombre": "Armuelle Rojo",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2022",
+      "disponibilidad": "Disponible",
+      "origen": "Huerto"
+    },
+    {
+      "tipo": "Hortalizas de raíz",
+      "nombre": "Remolacha",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2022",
+      "disponibilidad": "Disponible",
+      "origen": "Huerto"
+    },
+    {
+      "tipo": "Hortalizas de hoja",
+      "nombre": "Acelga Lyon",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2022",
+      "disponibilidad": "Disponible",
+      "origen": "Huerto"
+    },
+    {
+      "tipo": "Hortalizas de hoja",
+      "nombre": "Rúcula",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2022",
+      "disponibilidad": "Disponible",
+      "origen": "Huerto"
+    },
+    {
+      "tipo": "Hortalizas de hoja",
+      "nombre": "Kale Dwarf green curled",
+      "nombre_cientifico": "Brassica olercea",
+      "foto": "img/cards/default.jpeg",
+      "año": "2021",
+      "disponibilidad": "Disponible",
+      "origen": "Rocalba"
+    },
+    {
+      "tipo": "Aromáticas y medicinales",
+      "nombre": "Jiaogulan",
+      "nombre_cientifico": "Gynostemma pentaphyllum",
+      "foto": "img/cards/default.jpeg",
+      "año": "2023",
+      "disponibilidad": "Disponible",
+      "origen": "Magic Garden Seeds"
+    },
+    {
+      "tipo": "Aromáticas y medicinales",
+      "nombre": "Reina de los prados",
+      "nombre_cientifico": "Filipendula ulmaria",
+      "foto": "img/cards/default.jpeg",
+      "año": "2023",
+      "disponibilidad": "Disponible",
+      "origen": "Magic Garden Seeds"
+    },
+    {
+      "tipo": "Hortalizas de fruto",
+      "nombre": "Pepino Manzana",
+      "nombre_cientifico": "Cucumis sativus",
+      "foto": "img/cards/default.jpeg",
+      "año": "2023",
+      "disponibilidad": "Disponible",
+      "origen": "Magic Garden Seeds"
+    },
+    {
+      "tipo": "Hortalizas de fruto",
+      "nombre": "Fresa blanca Yellow Wonder",
+      "nombre_cientifico": "Fragaria vesca",
+      "foto": "img/cards/default.jpeg",
+      "año": "2023",
+      "disponibilidad": "Disponible",
+      "origen": "Magic Garden Seeds"
+    },
+    {
+      "tipo": "Hortalizas de raíz",
+      "nombre": "Zanahoria morada Spanish  black",
+      "nombre_cientifico": "Daucus carota",
+      "foto": "img/cards/default.jpeg",
+      "año": "2023",
+      "disponibilidad": "Disponible",
+      "origen": "Magic Garden Seeds"
+    },
+    {
+      "tipo": "Hortalizas de fruto",
+      "nombre": "Berenjena Blanca",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2022",
+      "disponibilidad": "Disponible",
+      "origen": "Huerto"
+    },
+    {
+      "tipo": "Hortalizas de fruto",
+      "nombre": "Okra",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2021",
+      "disponibilidad": "Disponible",
+      "origen": "Huerto"
+    },
+    {
+      "tipo": "Hortalizas de fruto",
+      "nombre": "Pimiento Padrón",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2022",
+      "disponibilidad": "Disponible",
+      "origen": "Huerto"
+    },
+    {
+      "tipo": "Hortalizas de fruto",
+      "nombre": "Berenjena Rallada",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2022",
+      "disponibilidad": "Disponible",
+      "origen": "Huerto"
+    },
+    {
+      "tipo": "Hortalizas de fruto",
+      "nombre": "Tomate Rosa",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2022",
+      "disponibilidad": "Disponible",
+      "origen": "Huerto"
+    },
+    {
+      "tipo": "Aromáticas y medicinales",
+      "nombre": "Albahaca Verde",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2021",
+      "disponibilidad": "Disponible",
+      "origen": "Huerto"
+    },
+    {
+      "tipo": "Hortalizas de fruto",
+      "nombre": "Tomate Marmande",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2023",
+      "disponibilidad": "Disponible",
+      "origen": "Huerto"
+    },
+    {
+      "tipo": "Aromáticas y medicinales",
+      "nombre": "Albahaca Morada",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2021",
+      "disponibilidad": "Disponible",
+      "origen": "Huerto"
+    },
+    {
+      "tipo": "Hortalizas de fruto",
+      "nombre": "Yute",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2021",
+      "disponibilidad": "Disponible",
+      "origen": "Huerto"
+    },
+    {
+      "tipo": "Hortalizas de hoja",
+      "nombre": "Brocoli",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2022",
+      "disponibilidad": "Disponible",
+      "origen": "Huerto"
+    },
+    {
+      "tipo": "Aromáticas y medicinales",
+      "nombre": "Menta",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2023",
+      "disponibilidad": "Disponible",
+      "origen": "Huerto"
+    },
+    {
+      "tipo": "Aromáticas y medicinales",
+      "nombre": "Rabanitos Riesenbutter",
+      "nombre_cientifico": "Raphanus sativus",
+      "foto": "img/cards/default.jpeg",
+      "año": "",
+      "disponibilidad": "Disponible",
+      "origen": "Gartenland"
+    },
+    {
+      "tipo": "Hortalizas de raíz",
+      "nombre": "Zanahoria Silvestre",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2021",
+      "disponibilidad": "Disponible",
+      "origen": "Río Ebro"
+    },
+    {
+      "tipo": "Flores",
+      "nombre": "Rosas",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2021",
+      "disponibilidad": "Disponible",
+      "origen": "Huerto"
+    },
+    {
+      "tipo": "Hortalizas de fruto",
+      "nombre": "Melón Piel sapo",
+      "nombre_cientifico": "Cucurbita maxima L.",
+      "foto": "img/cards/default.jpeg",
+      "año": "2021",
+      "disponibilidad": "Disponible",
+      "origen": "Huerto"
+    },
+    {
+      "tipo": "Hortalizas de hoja",
+      "nombre": "Kale Morado",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2021",
+      "disponibilidad": "Disponible",
+      "origen": "Huerto"
+    },
+    {
+      "tipo": "Hortalizas de fruto",
+      "nombre": "Tomate Cherry",
+      "nombre_cientifico": "Solanum lycopersicum",
+      "foto": "img/cards/default.jpeg",
+      "año": "2023",
+      "disponibilidad": "Disponible",
+      "origen": "Huerto"
+    },
+    {
+      "tipo": "Hortalizas de fruto",
+      "nombre": "Tomate Corazón de buey",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2022",
+      "disponibilidad": "Disponible",
+      "origen": "Huerto"
+    },
+    {
+      "tipo": "Hortalizas de fruto",
+      "nombre": "Piparra",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2023",
+      "disponibilidad": "Disponible",
+      "origen": "Huerto"
+    },
+    {
+      "tipo": "Hortalizas de hoja",
+      "nombre": "Brocoli F1 Atlantis",
+      "nombre_cientifico": "Brassica oleracea",
+      "foto": "img/cards/default.jpeg",
+      "año": "2023",
+      "disponibilidad": "Disponible",
+      "origen": "Gartenland"
+    },
+    {
+      "tipo": "Hortalizas de fruto",
+      "nombre": "Calabacín Blanco",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2021",
+      "disponibilidad": "Disponible",
+      "origen": "Huerto"
+    },
+    {
+      "tipo": "Aromáticas y medicinales",
+      "nombre": "Ruda",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2021",
+      "disponibilidad": "Disponible",
+      "origen": "Huerto"
+    },
+    {
+      "tipo": "Hortalizas de fruto",
+      "nombre": "Berenjena Negra",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2022",
+      "disponibilidad": "Disponible",
+      "origen": "Huerto"
+    },
+    {
+      "tipo": "Hortalizas de fruto",
+      "nombre": "Pepino",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2021",
+      "disponibilidad": "Disponible",
+      "origen": "Huerto"
+    },
+    {
+      "tipo": "Hortalizas de fruto",
+      "nombre": "Rabanitos Riesenbutter",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2022",
+      "disponibilidad": "Disponible",
+      "origen": "Huerto"
+    },
+    {
+      "tipo": "Hortalizas de fruto",
+      "nombre": "Melón Verde",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2023",
+      "disponibilidad": "Disponible",
+      "origen": "Venecia"
+    },
+    {
+      "tipo": "Hortalizas de fruto",
+      "nombre": "Tomate Cherry Kumato",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2022",
+      "disponibilidad": "Disponible",
+      "origen": "Huerto"
+    },
+    {
+      "tipo": "Aromáticas y medicinales",
+      "nombre": "Melissa",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2023",
+      "disponibilidad": "Disponible",
+      "origen": "Huerto"
+    },
+    {
+      "tipo": "Hortalizas de fruto",
+      "nombre": "Calabacín Verde",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2020",
+      "disponibilidad": "Disponible",
+      "origen": "Huerto"
+    },
+    {
+      "tipo": "Cereales",
+      "nombre": "Maíz Palomitero",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2022",
+      "disponibilidad": "Disponible",
+      "origen": "Huerto"
+    },
+    {
+      "tipo": "Hortalizas de hoja",
+      "nombre": "Lechuga Morada",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2021",
+      "disponibilidad": "Disponible",
+      "origen": "Huerto"
+    },
+    {
+      "tipo": "Aromáticas y medicinales",
+      "nombre": "Sauco",
+      "nombre_cientifico": "Sambucus nigra",
+      "foto": "img/cards/default.jpeg",
+      "año": "2024",
+      "disponibilidad": "Disponible",
+      "origen": "Spice garden"
+    },
+    {
+      "tipo": "Aromáticas y medicinales",
+      "nombre": "Kiwano",
+      "nombre_cientifico": "Cucumis metuliferus",
+      "foto": "img/cards/default.jpeg",
+      "año": "2024",
+      "disponibilidad": "Disponible",
+      "origen": "Spice garden"
+    },
+    {
+      "tipo": "Hortalizas de fruto",
+      "nombre": "Calabacín Blanco",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2024",
+      "disponibilidad": "Disponible",
+      "origen": "Spice garden"
+    },
+    {
+      "tipo": "Aromáticas y medicinales",
+      "nombre": "Albahaca Tulsi",
+      "nombre_cientifico": "Ocinum Tenuiflorum, sanctum",
+      "foto": "img/cards/default.jpeg",
+      "año": "2024",
+      "disponibilidad": "Disponible",
+      "origen": "Spice garden"
+    },
+    {
+      "tipo": "Flores",
+      "nombre": "Girasol Autum Beauty",
+      "nombre_cientifico": "Helianthus annuus",
+      "foto": "img/cards/default.jpeg",
+      "año": "2024",
+      "disponibilidad": "Disponible",
+      "origen": "Spice garden"
+    },
+    {
+      "tipo": "Aromáticas y medicinales",
+      "nombre": "Bufera",
+      "nombre_cientifico": "Whitania Somnifera",
+      "foto": "img/cards/default.jpeg",
+      "año": "2024",
+      "disponibilidad": "Disponible",
+      "origen": "Spice garden"
+    },
+    {
+      "tipo": "Hortalizas de raíz",
+      "nombre": "Zanahoria Silvestre",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2023",
+      "disponibilidad": "Disponible",
+      "origen": "Monte Palatino"
+    },
+    {
+      "tipo": "Hortalizas de hoja",
+      "nombre": "Acelga F1 Ampera",
+      "nombre_cientifico": "Beta vulgaris cicla",
+      "foto": "img/cards/default.jpeg",
+      "año": "2023",
+      "disponibilidad": "Disponible",
+      "origen": "Gartenland"
+    },
+    {
+      "tipo": "Aromáticas y medicinales",
+      "nombre": "Ginseng",
+      "nombre_cientifico": "Panax ginseng",
+      "foto": "img/cards/default.jpeg",
+      "año": "2023",
+      "disponibilidad": "Disponible",
+      "origen": "Rocalba"
+    },
+    {
+      "tipo": "Hortalizas de raíz",
+      "nombre": "Zanahoria Nantesa 5",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2021",
+      "disponibilidad": "Disponible",
+      "origen": "Semillas fito"
+    },
+    {
+      "tipo": "Hortalizas de hoja",
+      "nombre": "Berro de jardín",
+      "nombre_cientifico": "Lepidium sativum",
+      "foto": "img/cards/default.jpeg",
+      "año": "2022",
+      "disponibilidad": "Disponible",
+      "origen": "Gartenland"
+    },
+    {
+      "tipo": "Hortalizas de fruto",
+      "nombre": "Tomate Cherry Tumpling tom red",
+      "nombre_cientifico": "Solanum lycopersicum",
+      "foto": "img/cards/default.jpeg",
+      "año": "2022",
+      "disponibilidad": "Disponible",
+      "origen": "Gartenland"
+    },
+    {
+      "tipo": "Hortalizas de fruto",
+      "nombre": "Tomate Moneymaker",
+      "nombre_cientifico": "Solanum lycopersicum",
+      "foto": "img/cards/default.jpeg",
+      "año": "2023",
+      "disponibilidad": "Disponible",
+      "origen": "Gartenland"
+    },
+    {
+      "tipo": "Hortalizas de fruto",
+      "nombre": "Tomate Moneymaker",
+      "nombre_cientifico": "Solanum lycopersicum",
+      "foto": "img/cards/default.jpeg",
+      "año": "2023",
+      "disponibilidad": "Disponible",
+      "origen": "Huerto"
+    },
+    {
+      "tipo": "Hortalizas de hoja",
+      "nombre": "Col Asa de cántaro",
+      "nombre_cientifico": "Brassica oleracea",
+      "foto": "img/cards/default.jpeg",
+      "año": "2023",
+      "disponibilidad": "Disponible",
+      "origen": "RJS"
+    },
+    {
+      "tipo": "Hortalizas de hoja",
+      "nombre": "Acelga Roja rhubard chard",
+      "nombre_cientifico": "Beta vulgaris",
+      "foto": "img/cards/default.jpeg",
+      "año": "2023",
+      "disponibilidad": "Disponible",
+      "origen": "Rocalba"
+    },
+    {
+      "tipo": "Hortalizas de fruto",
+      "nombre": "Tomate Marmande",
+      "nombre_cientifico": "Solanum lycopersicum",
+      "foto": "img/cards/default.jpeg",
+      "año": "2023",
+      "disponibilidad": "Disponible",
+      "origen": "Gartenland"
+    },
+    {
+      "tipo": "Hortalizas de fruto",
+      "nombre": "Calabacín Redondo de Niza",
+      "nombre_cientifico": "Cucurbita pepo",
+      "foto": "img/cards/default.jpeg",
+      "año": "2023",
+      "disponibilidad": "Disponible",
+      "origen": "Gartenland"
+    },
+    {
+      "tipo": "Hortalizas de fruto",
+      "nombre": "Tomate Cherry Tumpling tom red",
+      "nombre_cientifico": "Solanum lycopersicum",
+      "foto": "img/cards/default.jpeg",
+      "año": "2023",
+      "disponibilidad": "Disponible",
+      "origen": "Huerto"
+    },
+    {
+      "tipo": "Hortalizas de fruto",
+      "nombre": "Tomate Marmande",
+      "nombre_cientifico": "Solanum lycopersicum",
+      "foto": "img/cards/default.jpeg",
+      "año": "2023",
+      "disponibilidad": "Disponible",
+      "origen": "Huerto"
+    },
+    {
+      "tipo": "Hortalizas de fruto",
+      "nombre": "Tomate Cherry pera amarillo",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2023",
+      "disponibilidad": "Disponible",
+      "origen": "Huerto"
+    },
+    {
+      "tipo": "Hortalizas de hoja",
+      "nombre": "Col Lombarda",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2022",
+      "disponibilidad": "Disponible",
+      "origen": "Huerto"
+    },
+    {
+      "tipo": "Hortalizas de fruto",
+      "nombre": "Calabacín Verde",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2021",
+      "disponibilidad": "Disponible",
+      "origen": "Huerto"
+    },
+    {
+      "tipo": "Hortalizas de fruto",
+      "nombre": "Calabaza Uchiki Kuri",
+      "nombre_cientifico": "Cucurbita maxima L.",
+      "foto": "img/cards/default.jpeg",
+      "año": "2023",
+      "disponibilidad": "Disponible",
+      "origen": "Gartenland"
+    },
+    {
+      "tipo": "Hortalizas de hoja",
+      "nombre": "Lechuga Romana",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2020",
+      "disponibilidad": "Disponible",
+      "origen": "Huerto"
+    },
+    {
+      "tipo": "Aromáticas y medicinales",
+      "nombre": "Laurel",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2021",
+      "disponibilidad": "Disponible",
+      "origen": "Huerto"
+    },
+    {
+      "tipo": "Aromáticas y medicinales",
+      "nombre": "Cilantro",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2021",
+      "disponibilidad": "Disponible",
+      "origen": "Huerto"
+    },
+    {
+      "tipo": "Hortalizas de hoja",
+      "nombre": "Cebolla",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2021",
+      "disponibilidad": "Disponible",
+      "origen": "Huerto"
+    },
+    {
+      "tipo": "Aromáticas y medicinales",
+      "nombre": "Hinojo Silvestre",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2021",
+      "disponibilidad": "Disponible",
+      "origen": "Huerto"
+    },
+    {
+      "tipo": "Hortalizas de fruto",
+      "nombre": "Uchuva",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2021",
+      "disponibilidad": "Disponible",
+      "origen": "Huerto"
+    },
+    {
+      "tipo": "Aromáticas y medicinales",
+      "nombre": "Perejil",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2022",
+      "disponibilidad": "Disponible",
+      "origen": "Verdy"
+    },
+    {
+      "tipo": "Aromáticas y medicinales",
+      "nombre": "Comino",
+      "nombre_cientifico": "Cuminum cymimum",
+      "foto": "img/cards/default.jpeg",
+      "año": "2022",
+      "disponibilidad": "Disponible",
+      "origen": "Rocalba"
+    },
+    {
+      "tipo": "Aromáticas y medicinales",
+      "nombre": "Acelga Bright lights",
+      "nombre_cientifico": "Beta vulgaris",
+      "foto": "img/cards/default.jpeg",
+      "año": "2023",
+      "disponibilidad": "Disponible",
+      "origen": "Rocalba"
+    },
+    {
+      "tipo": "Aromáticas y medicinales",
+      "nombre": "Albahaca Morada",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2023",
+      "disponibilidad": "Disponible",
+      "origen": "Huerto"
+    },
+    {
+      "tipo": "Aromáticas y medicinales",
+      "nombre": "Albahaca Verde hoja grande",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2023",
+      "disponibilidad": "Disponible",
+      "origen": "Huerto"
+    },
+    {
+      "tipo": "Aromáticas y medicinales",
+      "nombre": "Albahaca Verde hoja pequeña",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2023",
+      "disponibilidad": "Disponible",
+      "origen": "Huerto"
+    },
+    {
+      "tipo": "Hortalizas de raíz",
+      "nombre": "Zanahoria Parisian",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "",
+      "disponibilidad": "Disponible",
+      "origen": ""
+    },
+    {
+      "tipo": "Flores",
+      "nombre": "Girasol",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2024",
+      "disponibilidad": "Disponible",
+      "origen": ""
+    },
+    {
+      "tipo": "Flores",
+      "nombre": "Girasol",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2022",
+      "disponibilidad": "Disponible",
+      "origen": ""
+    },
+    {
+      "tipo": "Flores",
+      "nombre": "Girasol",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2023",
+      "disponibilidad": "Disponible",
+      "origen": ""
+    },
+    {
+      "tipo": "Hortalizas de fruto",
+      "nombre": "Pimiento Padrón",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "",
+      "disponibilidad": "Disponible",
+      "origen": ""
+    },
+    {
+      "tipo": "Flores",
+      "nombre": "Caléndula",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "",
+      "disponibilidad": "Disponible",
+      "origen": ""
+    },
+    {
+      "tipo": "Hortalizas de hoja",
+      "nombre": "Cebolla",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2024",
+      "disponibilidad": "Disponible",
+      "origen": "Cita/CDAMAZ"
+    },
+    {
+      "tipo": "Hortalizas de fruto",
+      "nombre": "Tomate Tomatilla",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2024",
+      "disponibilidad": "Disponible",
+      "origen": "Cita/CDAMAZ"
+    },
+    {
+      "tipo": "Hortalizas de hoja",
+      "nombre": "Acelga",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2024",
+      "disponibilidad": "Disponible",
+      "origen": "Cita/CDAMAZ"
+    },
+    {
+      "tipo": "Hortalizas de hoja",
+      "nombre": "Borraja Flor Blanca",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2024",
+      "disponibilidad": "Disponible",
+      "origen": "Cita/CDAMAZ"
+    },
+    {
+      "tipo": "Hortalizas de fruto",
+      "nombre": "Pepino Verde",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2024",
+      "disponibilidad": "Disponible",
+      "origen": "Cita/CDAMAZ"
+    },
+    {
+      "tipo": "Hortalizas de fruto",
+      "nombre": "Pimiento de Asar",
+      "nombre_cientifico": "",
+      "foto": "img/cards/default.jpeg",
+      "año": "2024",
+      "disponibilidad": "Disponible",
+      "origen": "Cita/CDAMAZ"
+    }
+  
+]
